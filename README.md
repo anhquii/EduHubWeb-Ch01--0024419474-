@@ -1,6 +1,15 @@
-# EduHub Web — Ch01 (starter)
+# EduHub Web — Ch01
+
 - **Link GitHub Pages:** https://anhquii.github.io/EduHubWeb-Ch01--0024419474-/
 - **Link Repository:** https://github.com/anhquii/EduHubWeb-Ch01--0024419474-
+
+## Kết quả kiểm tra Lighthouse (ch1-T6)
+
+- **Accessibility:** 96/100 (Yêu cầu đề bài: ≥ 95)
+- **SEO:** 100/100 (Yêu cầu đề bài: ≥ 95)
+
+![Kết quả kiểm tra Lighthouse](assets/lighthouse.png)
+
 Chương 1 môn **IN4529 — Lập trình Front End**. Em sẽ dựng 4 trang HTML cho **EduHub Web** — cổng
 câu lạc bộ (CLB) và sự kiện sinh viên Trường Đại học Đồng Tháp — rồi đưa lên Internet bằng GitHub Pages.
 
